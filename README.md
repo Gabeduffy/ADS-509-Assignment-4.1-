@@ -4,7 +4,14 @@ In this assignment we use Naive Bayes (NB) for its two greatest strengths:
 1. Exploration of a data set 
 1. Classification of new data based on training data
 
-The databases are not small, so I've put them on Canvas. When you download those files move them into the repository folder. 
+## Data
+The file `congressional_data.db` is too large for standard GitHub storage.
+
+**Download the database here:**  
+[Google Drive Folder](https://drive.google.com/drive/folders/1X9agCgPbT_lxELmPQawsJZBM5RXeiXSr?dmr=1&ec=wgc-drive-hero-goto)
+
+After downloading, place `congressional_data.db` in the project root directory so the notebook can locate it.
+
 
 ## Part 1: Exploratory Naive Bayes
 
